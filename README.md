@@ -2,7 +2,7 @@
 
 **Biometric Modeling of Opioid Withdrawal**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Used gradient boosting models on biometric data from wearable devices to quantify opioid withdrawal over time.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8594;	Gradient boosting and biometric data processing techniques are directly applicable to manufacturing tasks such as fault prediction, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anomaly detection, and real-time process control based on sensor data.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8594;	Gradient boosting and biometric data processing techniques are directly applicable to manufacturing tasks such as fault &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prediction, anomaly detection, and real-time process control based on sensor data.
 
 **Pupillometry-Based Modeling of Opioid Withdrawal**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applied regression, KNN, and neural networks to pupillometry data to explore opioid withdrawal prediction, incorporating feature &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;engineering, regularization, and cross-validated hyperparameter tuning.  
