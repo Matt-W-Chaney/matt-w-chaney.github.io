@@ -1,7 +1,7 @@
 # TECHNICAL PROJECTS AND APPLICATIONS
 
 **Biometric Modeling of Opioid Withdrawal**  
-Used gradient boosting models on biometric data from wearable devices to quantify opioid withdrawal over time.  
+Used gradient boosting models on biometric data from wearable devices to quantify opioid withdrawal over time.
 - Gradient boosting and biometric data processing techniques are directly applicable to manufacturing tasks such as fault prediction, anomaly detection, and real-time process control based on sensor data.
 
 **Pupillometry-Based Modeling of Opioid Withdrawal**  
